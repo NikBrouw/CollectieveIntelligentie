@@ -2,7 +2,7 @@
 Code voor het project van Collectieve Intelligentie
 
 ## Benodigde packages:
-numpy: https://pypi.org/project/numpy/
+numpy: https://pypi.org/project/numpy/ \\
 pandas: https://pandas.pydata.org/
 scikit: https://scikit-learn.org/stable/
 scipy: https://www.scipy.org/
