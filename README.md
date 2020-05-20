@@ -1,5 +1,7 @@
 # CollectieveIntelligentie
-Code voor het project van Collectieve Intelligentie
+Code voor het project van Collectieve Intelligentie.
+
+Nik Brouw (11058269), Tjerk Hendriksen (11878622), Alex Hakvoort (12488674) en Deniz Seyfeli (10699775)
 
 ## Benodigde packages:
 ### numpy: https://pypi.org/project/numpy/
